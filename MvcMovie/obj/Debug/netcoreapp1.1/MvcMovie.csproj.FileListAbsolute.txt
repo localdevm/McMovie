@@ -1,0 +1,10 @@
+C:\Users\LaptopMaarten\Desktop\Jaar 3\Cloud Applications\Oefeningen\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.deps.json
+C:\Users\LaptopMaarten\Desktop\Jaar 3\Cloud Applications\Oefeningen\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.json
+C:\Users\LaptopMaarten\Desktop\Jaar 3\Cloud Applications\Oefeningen\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.dev.json
+C:\Users\LaptopMaarten\Desktop\Jaar 3\Cloud Applications\Oefeningen\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.dll
+C:\Users\LaptopMaarten\Desktop\Jaar 3\Cloud Applications\Oefeningen\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.pdb
+C:\Users\LaptopMaarten\Desktop\Jaar 3\Cloud Applications\Oefeningen\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.csprojResolveAssemblyReference.cache
+C:\Users\LaptopMaarten\Desktop\Jaar 3\Cloud Applications\Oefeningen\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\LaptopMaarten\Desktop\Jaar 3\Cloud Applications\Oefeningen\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfo.cs
+C:\Users\LaptopMaarten\Desktop\Jaar 3\Cloud Applications\Oefeningen\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.dll
+C:\Users\LaptopMaarten\Desktop\Jaar 3\Cloud Applications\Oefeningen\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.pdb
